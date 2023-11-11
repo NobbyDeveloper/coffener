@@ -7,7 +7,9 @@ export default defineConfig({
     presetWebFonts({
       provider: 'google',
       fonts: {
-        sans: 'Sora:300,400,500,600,700,800'
+        sans: 'Sora:300,400,500,600,700,800',
+        inter: 'Inter:200,300,400,500,600',
+        italiana: 'Italiana:400',
       }
     }),
     presetUno(),

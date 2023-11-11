@@ -1,18 +1,14 @@
 <template>
-  <h3>Welcome to your <b>Nuxt.js app</b>!</h3>
+  <section id="_appContent">
+    
+    Hola
+
+  </section>
 </template>
 
 <style>
-body {
-  @apply m-2 mx-4
+section#_appContent {
+  @apply bg-white text-black min-h-xl
 }
 
-
-
-
-h3 { @apply font-sans text-sm font-medium }
-
-b {
-  @apply text-emerald-400 font-sans text-sm
-}
 </style>

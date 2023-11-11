@@ -6,7 +6,12 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: 'Nuxt.js App'
+      title: 'Coffener: Buy a Coffee!',
+
     }
-  }
+  },
+  components: [
+    '~/components',
+    '~/components/assets',
+  ],
 })
