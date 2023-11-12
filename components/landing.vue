@@ -47,7 +47,7 @@ main#_appLandingTitle div button {
 
 main#_appLandingTitle img {
   @apply -mb-80 my-24;
-  box-shadow: 0px 8px 80px 30px #fdb47418;
+  box-shadow: 0px 0px 80px 30px #fdb47418;
   border-radius: 30px;
   background: transparent;
 }
