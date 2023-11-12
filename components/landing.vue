@@ -7,7 +7,7 @@
         <button>Get Coffener</button>
         <button>My Twitter</button>
       </div>
-      <img src='video.png' width='800' height='465' />
+      <NuxtImg id='_appVideoVector' src="/video.png" width='750' />
     </main>
   </main>
 </template>
@@ -50,5 +50,9 @@ main#_appLandingTitle img {
   box-shadow: 0px 0px 80px 30px #fdb47418;
   border-radius: 30px;
   background: transparent;
+}
+
+img {
+  @apply overflow-hidden rounded-full
 }
 </style>

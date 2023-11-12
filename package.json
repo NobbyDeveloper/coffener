@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxt/image": "^1.0.0",
     "@unocss/nuxt": "^0.57.3",
     "@unocss/transformer-directives": "^0.57.3",
     "nuxt": "^3.8.1",
