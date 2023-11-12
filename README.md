@@ -1,2 +1,2 @@
 # Just a practice project. Based on ☕ Coffener.
-All right reserved to Viacheslav Mykhailov on (Figma)[https://www.figma.com/@fr0st2o11] and (Coffener Demo)[https://www.figma.com/community/file/1228367627242954056/demo-coffeener-landing-page-design]
+All right reserved to Viacheslav Mykhailov on [Figma](https://www.figma.com/@fr0st2o11) and [Coffener Demo](https://www.figma.com/community/file/1228367627242954056/demo-coffeener-landing-page-design)
