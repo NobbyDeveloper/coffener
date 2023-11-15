@@ -17,5 +17,9 @@
     "nuxt": "^3.8.1",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxtjs/html-minifier": "^0.1.2",
+    "html-minifier": "^4.0.0"
   }
 }

@@ -2,6 +2,7 @@
   <Landing />
 
   <slot />
+  <Experience />
 </template>
 
 <style>

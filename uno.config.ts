@@ -8,7 +8,7 @@ export default defineConfig({
       provider: 'google',
       fonts: {
         sans: 'Sora:300,400,500,600,700,800',
-        inter: 'Inter:200,300,400,500,600',
+        inter: 'Inter:100,200,300,400,500,600',
         italiana: 'Italiana:400',
       }
     }),
